@@ -7,4 +7,4 @@ myCircos web interface code
 - http://mycircos.iric.ca/
 - https://www.biorxiv.org/content/early/2016/05/10/052605
 
-Made by Caroline Labelle
+
